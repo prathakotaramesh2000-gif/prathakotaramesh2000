@@ -1,252 +1,143 @@
 # 👋 Hi, I'm Ramesh
 
 <p align="center">
-  <strong>Software Developer | React.js | JavaScript | Python | SQL</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Ramesh&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Python%20%7C%20React%20%7C%20Cybersecurity&descSize=16&descAlignY=58" width="100%" alt="Ramesh Developer Banner"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/prathakotaramesh2000-gif">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prathakota-ramesh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
----
+## 💼 About Me
 
-## 👨‍💻 About Me
+I'm a graduate passionate about software development, building practical web applications, and continuously improving my technical skills. I enjoy creating responsive interfaces, working with APIs and databases, and exploring cybersecurity and secure coding practices.
 
-I am a passionate and continuously learning **Software Developer** with a strong interest in building modern, responsive, and user-focused applications.
+- 💻 Interested in Software Development and Full-Stack Web Development.
+- ⚛️ Working with Python, Django, JavaScript, and React.js.
+- 🌐 Learning API integration, database management, and application development.
+- 🔐 Exploring Linux, web application security, and cybersecurity fundamentals.
+- 🎯 Seeking suitable entry-level opportunities to apply my skills and grow professionally.
 
-My development journey focuses on **Frontend Development, React.js, JavaScript, Python, SQL, REST APIs, and Full-Stack Development**.
-
-I enjoy transforming ideas into practical applications, solving programming problems, learning modern technologies, and writing clean and maintainable code.
-
-```text
-💻 Development     →  Web & Full-Stack Applications
-⚛️ Frontend        →  React.js & JavaScript
-🐍 Backend         →  Python & REST APIs
-🗄️ Database        →  SQL
-🔄 State Management →  Redux & Context API
-🧠 Problem Solving →  DSA & Programming
-🚀 Goal             →  Build production-ready software
-```
-
----
-
-# 🛠️ Technical Skills
-
-## Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript" alt="Programming Languages"/>
-</p>
-
-* Python
-* JavaScript
-* HTML5
-* CSS3
-
-## Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend Technologies"/>
-</p>
-
-* React.js
-* JavaScript ES6+
-* HTML5
-* CSS3
-* Responsive Web Design
-* Component-Based Development
-* React Hooks
-* Context API
-* React Router
-
-## State Management
-
-<p>
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux"/>
-</p>
-
-* Redux
-* Context API
-* `useState`
-* `useReducer`
-* `useContext`
-* `useMemo`
-* `useCallback`
-
-## Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi" alt="Backend Technologies"/>
-</p>
-
-* Python
-* REST APIs
-* API Integration
-* CRUD Operations
-* JSON
-* Request/Response Handling
-
-## Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Database"/>
-</p>
-
-* SQL
-* MySQL
-* CRUD Operations
-* Data Management
-* Query Writing
-
-## Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
-</p>
-
-* Git
-* GitHub
-* Visual Studio Code
-* Version Control
-* Debugging
-* Problem Solving
-
----
-
-# 🎯 Areas of Interest
-
-I am particularly interested in:
-
-* ⚛️ **React.js Development**
-* 🌐 **Modern Web Applications**
-* 🔗 **REST API Integration**
-* 🔄 **State Management**
-* 🐍 **Python Development**
-* 🗄️ **SQL & Database Development**
-* 🧠 **Data Structures & Algorithms**
-* 🏗️ **Full-Stack Application Development**
-* 🚀 **Real-World Software Projects**
-* 🔧 **Clean & Maintainable Code**
-
----
-
-# 🚀 Projects
-
-## 🌐 Myfirstwebpage
-
-A foundational web development project created to practice webpage structure and frontend fundamentals.
-
-**Technology:** HTML
-
-🔗 [View Repository](https://github.com/prathakotaramesh2000-gif/Myfirstwebpage)
-
----
-
-## 💻 prathakotaramesh2000
-
-A development repository used for building and practicing programming concepts and projects.
-
-**Technology:** Programming / Web Development
-
-🔗 [View Repository](https://github.com/prathakotaramesh2000-gif/prathakotaramesh2000)
-
----
-
-# 📚 Current Learning
-
-```text
-React.js
-   │
-   ├── React Hooks
-   ├── Context API
-   ├── Redux
-   └── React Router
-          │
-          ▼
-     REST APIs
-          │
-          ▼
-       Python
-          │
-          ▼
-         SQL
-          │
-          ▼
-   Full-Stack Development
-```
-
----
-
-# 🎯 2026 Development Goals
-
-* [ ] Build advanced React.js applications
-* [ ] Strengthen JavaScript fundamentals
-* [ ] Master Redux and modern state management
-* [ ] Build applications using REST APIs
-* [ ] Improve Python backend development
-* [ ] Strengthen SQL and database skills
-* [ ] Practice Data Structures & Algorithms
-* [ ] Build complete full-stack applications
-* [ ] Create production-quality projects
-* [ ] Contribute to open-source projects
-* [ ] Continue improving Git and GitHub workflow
-
----
-
-# 💡 My Development Philosophy
-
-> **Learn → Build → Test → Improve → Repeat**
-
-I believe the best way to learn software development is through consistent practice and building real applications.
-
-My focus is not only on learning technologies, but also on understanding **how and why they are used in real-world software development**.
-
----
-
-# 🤝 Open to Opportunities
-
-I am interested in:
-
-* 💼 Software Developer opportunities
-* ⚛️ React.js Developer roles
-* 🌐 Frontend Developer roles
-* 🐍 Python Developer opportunities
-* 🚀 Full-Stack Development opportunities
-* 🤝 Open-source collaboration
-* 📚 Learning and knowledge-sharing opportunities
-
----
-
-# 📫 Connect With Me
+## 🛠️ Technical Skills
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,mysql,git,github,vscode,linux&perline=6" alt="Technical skills"/>
+</p>
 
-<a href="https://github.com/prathakotaramesh2000-gif">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👥 User Management API
+
+<a href="https://github.com/prathakotaramesh2000-gif/UserManagement-Api-">
+<img src="https://placehold.co/600x300/0F172A/FFFFFF?text=User+Management+API" width="100%" alt="User Management API preview"/>
 </a>
 
-</p>
+Practice project focused on user management and backend development.
 
----
+**Focus:** CRUD operations, APIs, user data.
 
-## ⭐ Thank You for Visiting My Profile
+[📂 View Project](https://github.com/prathakotaramesh2000-gif/UserManagement-Api-)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Movie API
+
+<a href="https://github.com/prathakotaramesh2000-gif/Movie-API">
+<img src="https://placehold.co/600x300/172554/FFFFFF?text=Movie+API+Project" width="100%" alt="Movie API preview"/>
+</a>
+
+Movie-related project for practicing API functionality and application data handling.
+
+**Focus:** APIs, data handling, application logic.
+
+[📂 View Project](https://github.com/prathakotaramesh2000-gif/Movie-API)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ Task Management
+
+<a href="https://github.com/prathakotaramesh2000-gif/TaskMan-Project">
+<img src="https://placehold.co/600x300/134E4A/FFFFFF?text=Task+Management" width="100%" alt="Task Management preview"/>
+</a>
+
+Project focused on task organization and application functionality.
+
+**Focus:** Task workflows, application logic, CRUD concepts.
+
+[📂 View Project](https://github.com/prathakotaramesh2000-gif/TaskMan-Project)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚛️ React Projects
+
+<a href="https://github.com/prathakotaramesh2000-gif/CompleteReactCode">
+<img src="https://placehold.co/600x300/1E293B/61DAFB?text=React+Development" width="100%" alt="React projects preview"/>
+</a>
+
+React code and practice implementations for improving frontend development skills.
+
+**Focus:** React components, JavaScript, reusable UI.
+
+[📂 View Project](https://github.com/prathakotaramesh2000-gif/CompleteReactCode)
+
+</td>
+</tr>
+</table>
+
+## 🔐 Cybersecurity Interests
+
+- Linux and Kali Linux fundamentals.
+- File integrity monitoring using SHA-256.
+- Network diagnostics and DNS troubleshooting.
+- Web application security and OWASP concepts.
+- Security monitoring and vulnerability research.
+
+*Security testing is performed only on systems I own or have permission to assess.*
+
+## 📚 Currently Learning
+
+- Building responsive applications with React.js.
+- Developing backend applications using Python and Django.
+- Improving REST API and database integration skills.
+- Understanding authentication and secure coding.
+- Practicing cybersecurity in authorized lab environments.
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <strong>Thanks for taking the time to explore my GitHub profile.</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=prathakotaramesh2000-gif&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathakotaramesh2000-gif&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <i>"Build with purpose. Learn continuously. Improve consistently."</i>
+  <img src="https://streak-stats.demolab.com?user=prathakotaramesh2000-gif&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
----
+## 🤝 Connect With Me
 
-<!--
-Professional GitHub Profile README
-Username: prathakotaramesh2000-gif
+<p align="center">
+  <a href="https://github.com/prathakotaramesh2000-gif">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prathakota-ramesh">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
-Keep this README updated as your projects, skills,
-certifications, achievements, and contributions grow.
--->
+<p align="center">
+  <b>Learn continuously. Build practically. Grow professionally.</b>
+</p>
