@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/prathakotaramesh2000-gif">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/prathakota-ramesh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -19,15 +19,28 @@ I'm a graduate passionate about software development, building practical web app
 
 - 💻 Interested in Software Development and Full-Stack Web Development.
 - ⚛️ Working with Python, Django, JavaScript, and React.js.
-- 🌐 Learning API integration, database management, and application development.
+- 🌐 Practicing API integration, database management, and application development.
 - 🔐 Exploring Linux, web application security, and cybersecurity fundamentals.
-- 🎯 Seeking suitable entry-level opportunities to apply my skills and grow professionally.
+- 🎯 Seeking entry-level opportunities to apply my skills, contribute to projects, and grow professionally.
 
 ## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,mysql,git,github,vscode,linux&perline=6" alt="Technical skills"/>
 </p>
+
+### Technology Overview
+
+| Category | Technologies |
+|---|---|
+| Programming | Python, JavaScript, C |
+| Frontend | React.js, HTML5, CSS3 |
+| Backend | Django, REST APIs |
+| Database | SQL |
+| Tools | Git, GitHub, VS Code |
+| Cybersecurity | Linux, Kali Linux, OWASP concepts, security fundamentals |
+
+---
 
 ## 🚀 Featured Projects
 
@@ -38,14 +51,14 @@ I'm a graduate passionate about software development, building practical web app
 ### 👥 User Management API
 
 <a href="https://github.com/prathakotaramesh2000-gif/UserManagement-Api-">
-<img src="https://placehold.co/600x300/0F172A/FFFFFF?text=User+Management+API" width="100%" alt="User Management API preview"/>
+<img src="https://placehold.co/600x280/0F172A/FFFFFF?text=User+Management+API" width="100%" alt="User Management project preview"/>
 </a>
 
 Practice project focused on user management and backend development.
 
-**Focus:** CRUD operations, APIs, user data.
+**Focus:** CRUD operations, API concepts, user data management.
 
-[📂 View Project](https://github.com/prathakotaramesh2000-gif/UserManagement-Api-)
+[📂 View Source Code →](https://github.com/prathakotaramesh2000-gif/UserManagement-Api-)
 
 </td>
 <td width="50%" valign="top">
@@ -53,14 +66,14 @@ Practice project focused on user management and backend development.
 ### 🎬 Movie API
 
 <a href="https://github.com/prathakotaramesh2000-gif/Movie-API">
-<img src="https://placehold.co/600x300/172554/FFFFFF?text=Movie+API+Project" width="100%" alt="Movie API preview"/>
+<img src="https://placehold.co/600x280/172554/FFFFFF?text=Movie+API+Project" width="100%" alt="Movie API project preview"/>
 </a>
 
 Movie-related project for practicing API functionality and application data handling.
 
 **Focus:** APIs, data handling, application logic.
 
-[📂 View Project](https://github.com/prathakotaramesh2000-gif/Movie-API)
+[📂 View Source Code →](https://github.com/prathakotaramesh2000-gif/Movie-API)
 
 </td>
 </tr>
@@ -70,14 +83,14 @@ Movie-related project for practicing API functionality and application data hand
 ### ✅ Task Management
 
 <a href="https://github.com/prathakotaramesh2000-gif/TaskMan-Project">
-<img src="https://placehold.co/600x300/134E4A/FFFFFF?text=Task+Management" width="100%" alt="Task Management preview"/>
+<img src="https://placehold.co/600x280/134E4A/FFFFFF?text=Task+Management" width="100%" alt="Task Management project preview"/>
 </a>
 
-Project focused on task organization and application functionality.
+A project focused on task organization and application functionality.
 
 **Focus:** Task workflows, application logic, CRUD concepts.
 
-[📂 View Project](https://github.com/prathakotaramesh2000-gif/TaskMan-Project)
+[📂 View Source Code →](https://github.com/prathakotaramesh2000-gif/TaskMan-Project)
 
 </td>
 <td width="50%" valign="top">
@@ -85,56 +98,124 @@ Project focused on task organization and application functionality.
 ### ⚛️ React Projects
 
 <a href="https://github.com/prathakotaramesh2000-gif/CompleteReactCode">
-<img src="https://placehold.co/600x300/1E293B/61DAFB?text=React+Development" width="100%" alt="React projects preview"/>
+<img src="https://placehold.co/600x280/1E293B/61DAFB?text=React+Development" width="100%" alt="React project preview"/>
 </a>
 
-React code and practice implementations for improving frontend development skills.
+A collection of React code and practice implementations.
 
 **Focus:** React components, JavaScript, reusable UI.
 
-[📂 View Project](https://github.com/prathakotaramesh2000-gif/CompleteReactCode)
+[📂 View Source Code →](https://github.com/prathakotaramesh2000-gif/CompleteReactCode)
 
 </td>
 </tr>
 </table>
 
-## 🔐 Cybersecurity Interests
+---
 
-- Linux and Kali Linux fundamentals.
-- File integrity monitoring using SHA-256.
-- Network diagnostics and DNS troubleshooting.
-- Web application security and OWASP concepts.
-- Security monitoring and vulnerability research.
+## 🔐 Cybersecurity Portfolio
 
-*Security testing is performed only on systems I own or have permission to assess.*
+I am developing my cybersecurity knowledge through hands-on learning and authorized lab exercises.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔏 File Integrity Monitoring
+
+<img src="https://placehold.co/600x220/0F172A/22D3EE?text=SHA-256+File+Integrity" width="100%" alt="SHA-256 file integrity monitoring illustration"/>
+
+Learn to detect unexpected file changes by comparing SHA-256 hashes.
+
+**Tools and concepts:** Python, SHA-256, file hashing.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Network Diagnostics & DNS
+
+<img src="https://placehold.co/600x220/172554/67E8F9?text=Network+%26+DNS+Diagnostics" width="100%" alt="Network diagnostics and DNS illustration"/>
+
+Practice network troubleshooting and investigate DNS resolution issues.
+
+**Tools and concepts:** Linux, DNS, networking commands.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Web Application Security
+
+<img src="https://placehold.co/600x220/134E4A/99F6E4?text=Web+Application+Security" width="100%" alt="Web application security illustration"/>
+
+Study common web application vulnerabilities and secure development practices.
+
+**Tools and concepts:** OWASP, HTTP, secure coding.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 Security Monitoring & Vulnerability Research
+
+<img src="https://placehold.co/600x220/312E81/C7D2FE?text=Security+Monitoring" width="100%" alt="Security monitoring and vulnerability research illustration"/>
+
+Explore security events, alert investigation, and vulnerability research in authorized environments.
+
+**Tools and concepts:** Linux, security logs, vulnerability assessment fundamentals.
+
+</td>
+</tr>
+</table>
+
+*These sections describe learning areas. Link each section to a project repository after you have implemented and documented the corresponding work.*
+
+---
+
+## 📈 My GitHub Journey
+
+### Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/prathakotaramesh2000-gif">
+    <img src="https://ghchart.rshah.org/409BA5/prathakotaramesh2000-gif" alt="Ramesh's GitHub contribution calendar" width="100%"/>
+  </a>
+</p>
+
+Explore my repositories to see my code, project documentation, and development progress.
+
+<p align="center">
+  <a href="https://github.com/prathakotaramesh2000-gif?tab=repositories">
+    <img src="https://img.shields.io/badge/View-All%20Repositories-1D4ED8?style=for-the-badge&logo=github" alt="View all repositories"/>
+  </a>
+</p>
+
+---
 
 ## 📚 Currently Learning
 
 - Building responsive applications with React.js.
 - Developing backend applications using Python and Django.
-- Improving REST API and database integration skills.
+- Improving REST API integration and database management.
 - Understanding authentication and secure coding.
-- Practicing cybersecurity in authorized lab environments.
+- Practicing cybersecurity fundamentals in authorized lab environments.
 
-## 📊 GitHub Statistics
+## 🎯 Career Objective
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathakotaramesh2000-gif&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathakotaramesh2000-gif&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
-</p>
+To contribute to a professional development team where I can apply my programming skills, build useful software, collaborate with experienced developers, and continue learning modern development and security practices.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prathakotaramesh2000-gif&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+**Interested roles:** Software Developer | Python/Django Developer | Frontend Developer | Entry-Level Cybersecurity Roles
 
-## 🤝 Connect With Me
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/prathakotaramesh2000-gif">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/prathakota-ramesh">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
